@@ -1,0 +1,40 @@
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\BjsScraper.exe.config
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\BjsScraper.exe
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\BjsScraper.pdb
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\NPOI.dll
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\NPOI.OOXML.dll
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\NPOI.xml
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\NPOI.OOXML.xml
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\obj\Debug\BjsScraper.Properties.Resources.resources
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\obj\Debug\BjsScraper.csproj.GenerateResource.Cache
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\obj\Debug\BjsScraper.exe
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\obj\Debug\BjsScraper.pdb
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\obj\Debug\BjsScraper.csprojResolveAssemblyReference.cache
+C:\Users\Koksy\Documents\Visual Studio 2013\Projects\BjcScraper\BjcScraper\obj\Debug\BjsScraper.MainForm.resources
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\BjsScraper.exe.config
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\obj\Debug\BjsScraper.exe
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\obj\Debug\BjsScraper.pdb
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\BjsScraper.exe
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\BjsScraper.pdb
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\HtmlAgilityPack.dll
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\NPOI.dll
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\NPOI.OOXML.dll
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\HtmlAgilityPack.pdb
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\HtmlAgilityPack.xml
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\NPOI.xml
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\NPOI.OOXML.xml
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\obj\Debug\BjsScraper.csprojResolveAssemblyReference.cache
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\obj\Debug\BjsScraper.MainForm.resources
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\obj\Debug\BjsScraper.Properties.Resources.resources
+D:\Zlatomir\c#-scraper\BjcScraper_source\BjcScraper\obj\Debug\BjsScraper.csproj.GenerateResource.Cache
